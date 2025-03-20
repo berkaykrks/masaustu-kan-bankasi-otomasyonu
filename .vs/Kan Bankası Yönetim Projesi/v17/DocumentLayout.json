@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\kanstogu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|c:\\users\\berka\\source\\repos\\kan bankas\u0131 y\u00F6netim projesi\\kan bankas\u0131 y\u00F6netim projesi\\gecis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3500D-9CDD-4FE6-AA30-BF0371264BC6}|Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim projesi\\gecis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:47:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonorListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\DonorListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:35.915Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KontrolPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KontrolPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:34.362Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KanTransferi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanTransferi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:32.793Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KanStogu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanStogu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:30.464Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:24.222Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:45:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HastaListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:44:09.442Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AdminLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:23:44.52Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hasta.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Hasta.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:46:38.432Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HastaListesi.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\HastaListesi.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwLgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:44:11.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gecis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:13:13.395Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:45:25.818Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gecis.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:37:57.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:11:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gecis.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Projesi\\Gecis.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:22:14.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

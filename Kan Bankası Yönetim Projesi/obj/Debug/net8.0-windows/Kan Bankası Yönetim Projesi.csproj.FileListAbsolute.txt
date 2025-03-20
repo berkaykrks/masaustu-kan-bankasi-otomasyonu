@@ -1,0 +1,78 @@
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.exe
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.deps.json
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.runtimeconfig.json
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.pdb
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Gecis.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Properties.Resources.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.AssemblyInfo.cs
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bank.F4806E1E.Up2Date
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\refint\Kan Bankası Yönetim Projesi.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.pdb
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan Bankası Yönetim Projesi.genruntimeconfig.cache
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\ref\Kan Bankası Yönetim Projesi.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.AnaSayfa.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Donor.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.DonorListesi.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Hasta.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.HastaListesi.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.KanStogu.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.KanTransferi.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.KontrolPaneli.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Login.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\CuoreUI.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.KanBagısı.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.Calisan.resources
+C:\Users\berka\source\repos\Kan Bankası Yönetim Projesi\Kan Bankası Yönetim Projesi\obj\Debug\net8.0-windows\Kan_Bankası_Yönetim_Projesi.AdminLogin.resources
